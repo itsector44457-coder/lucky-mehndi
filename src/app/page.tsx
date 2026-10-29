@@ -199,7 +199,7 @@ export default function HomePage() {
         <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
           <div className="lm-grid-2">
             <div style={{ overflow: 'hidden', width: '320px', maxWidth: '100%', aspectRatio: '3/4', borderRadius: '160px 160px 0 0', backgroundColor: '#d8cfc4', margin: '0 auto', position: 'relative' }}>
-              <MehndiImage src="/images/artist.jpg" alt="Lucky - Mehndi Artist" gradient="linear-gradient(160deg, #d4b896 0%, #b89060 50%, #8a6035 100%)" />
+              <MehndiImage src="/images/clinetphoto1.jpeg" alt="Lucky - Mehndi Artist" gradient="linear-gradient(160deg, #d4b896 0%, #b89060 50%, #8a6035 100%)" />
             </div>
             <div>
               <p style={{ fontFamily: 'Jost, sans-serif', fontWeight: 400, fontSize: '10px', letterSpacing: '0.18em', textTransform: 'uppercase', color: '#6B2D2D', marginBottom: '16px' }}>The hands behind Lucky</p>
